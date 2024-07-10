@@ -99,4 +99,4 @@ This project focuses on deadlock detection and safe sequencing in Windows and Li
 
 ## Contact
 
-For questions or discussions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amanrajfr/) or email at your.email@example.com.
+For questions or discussions, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amanrajfr/) .
